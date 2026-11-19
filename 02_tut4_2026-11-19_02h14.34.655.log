@@ -1,0 +1,200 @@
+14.8565 	INFO 	Loaded monitor calibration from ['2026_08_30 11:06']
+14.9669 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+16.8387 	INFO 	Using renderer 'Intel(R) UHD Graphics' for graphics
+16.8388 	INFO 	OpenGL version supported by driver is 4..
+16.8970 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000188472DE6E0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000188472DE740>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000188462A0280>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(0.0), np.float64(0.0)], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.8971 	EXP 	window1: backgroundImage = ''
+16.8971 	EXP 	window1: backgroundFit = 'none'
+17.3026 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+17.3027 	EXP 	window1: recordFrameIntervals = False
+17.4554 	EXP 	window1: recordFrameIntervals = True
+18.1252 	WARNING 	t of last frame was 20.63ms (=1/48)
+19.1204 	EXP 	window1: recordFrameIntervals = False
+19.1205 	EXP 	Screen (0) actual frame rate measured at 60.14Hz
+19.2289 	INFO 	keyboard.Keyboard is using ptb backend.
+19.2290 	EXP 	tut4: status = STARTED
+19.2345 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([-0.2549,  0.2392,  0.2549]), fillColorSpace='rgb', fillRGB=array([-0.2549,  0.2392,  0.2549]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+19.2355 	EXP 	Created line1 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line1', opacity=1, ori=90.0, pos=array([-150.,    0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+19.2364 	EXP 	Created line2 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line2', opacity=1, ori=90.0, pos=array([-50.,   0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+19.2372 	EXP 	Created line3 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line3', opacity=1, ori=90.0, pos=array([50.,  0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+19.2380 	EXP 	Created line4 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-4.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line4', opacity=1, ori=90.0, pos=array([150.,   0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+19.2390 	EXP 	Created probe = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='probe', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+19.2400 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([-0.2549,  0.2392,  0.2549]), fillColorSpace='rgb', fillRGB=array([-0.2549,  0.2392,  0.2549]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+19.2407 	EXP 	Created line1 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line1', opacity=1, ori=90.0, pos=array([-150.,    0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+19.2415 	EXP 	Created line2 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line2', opacity=1, ori=90.0, pos=array([-50.,   0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+19.2423 	EXP 	Created line3 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line3', opacity=1, ori=90.0, pos=array([50.,  0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+19.2430 	EXP 	Created line4 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-4.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line4', opacity=1, ori=90.0, pos=array([150.,   0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+19.2440 	EXP 	Created probe = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='probe', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+0.0087 	EXP 	Imported C:/Users/soman/OneDrive/Desktop/Psychopy310/tut 4/sequence _con.csv as conditions, 4 conditions, 2 params
+0.0089 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'pos': np.int64(-50), 'corr_resp': 'x', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0120 	EXP 	fixation: autoDraw = True
+1.0088 	EXP 	line1: autoDraw = True
+1.0088 	EXP 	line2: autoDraw = True
+1.0088 	EXP 	line3: autoDraw = True
+1.0088 	EXP 	line4: autoDraw = True
+1.0254 	EXP 	fixation: autoDraw = False
+1.9914 	EXP 	Device response: <KeyPress from None: t=1.9609615999506786, value=space, duration=None>
+1.9929 	DATA 	Keypress: space
+2.0088 	INFO 	Keyboard events cleared
+2.0086 	EXP 	probe: autoDraw = True
+2.1088 	EXP 	Device response: <KeyPress from None: t=1.9609615999506786, value=space, duration=0.1333542000502348>
+3.7415 	DATA 	Keypress: up
+3.7568 	EXP 	Device response: <KeyPress from None: t=3.740472999983467, value=up, duration=None>
+3.9565 	EXP 	Device response: <KeyPress from None: t=3.740472999983467, value=up, duration=0.2150815000059083>
+5.2741 	DATA 	Keypress: up
+5.2887 	EXP 	Device response: <KeyPress from None: t=5.271338999969885, value=up, duration=None>
+5.4735 	EXP 	Device response: <KeyPress from None: t=5.271338999969885, value=up, duration=0.18903529993258417>
+6.5372 	EXP 	Device response: <KeyPress from None: t=6.5282400998985395, value=right, duration=None>
+6.5378 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'pos': np.int64(150), 'corr_resp': 'v', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+6.5393 	DATA 	Keypress: right
+6.5535 	EXP 	fixation: autoDraw = False
+6.5535 	EXP 	line1: autoDraw = False
+6.5535 	EXP 	line2: autoDraw = False
+6.5535 	EXP 	line3: autoDraw = False
+6.5535 	EXP 	line4: autoDraw = False
+6.5535 	EXP 	probe: autoDraw = False
+6.5535 	EXP 	fixation: autoDraw = True
+6.7207 	EXP 	Device response: <KeyPress from None: t=6.5282400998985395, value=right, duration=0.1895433000754565>
+7.5527 	EXP 	fixation: autoDraw = False
+7.5527 	EXP 	line1: autoDraw = True
+7.5527 	EXP 	line2: autoDraw = True
+7.5527 	EXP 	line3: autoDraw = True
+7.5527 	EXP 	line4: autoDraw = True
+8.5518 	INFO 	Keyboard events cleared
+8.5516 	EXP 	probe: autoDraw = True
+10.7505 	EXP 	Device response: <KeyPress from None: t=10.742040799930692, value=v, duration=None>
+10.7528 	DATA 	Keypress: v
+10.9506 	EXP 	Device response: <KeyPress from None: t=10.742040799930692, value=v, duration=0.20763009996153414>
+12.0158 	EXP 	Device response: <KeyPress from None: t=12.00451139989309, value=b, duration=None>
+12.0179 	DATA 	Keypress: b
+12.1988 	EXP 	Device response: <KeyPress from None: t=12.00451139989309, value=b, duration=0.1796970000723377>
+13.3476 	EXP 	Device response: <KeyPress from None: t=13.340384099981748, value=up, duration=None>
+13.3493 	DATA 	Keypress: up
+13.5637 	EXP 	Device response: <KeyPress from None: t=13.340384099981748, value=up, duration=0.20988570002373308>
+13.9638 	EXP 	Device response: <KeyPress from None: t=13.962452599895187, value=up, duration=None>
+13.9676 	DATA 	Keypress: up
+14.1306 	EXP 	Device response: <KeyPress from None: t=13.962452599895187, value=up, duration=0.15291060006711632>
+14.5303 	EXP 	Device response: <KeyPress from None: t=14.52252919995226, value=right, duration=None>
+14.5310 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'pos': np.int64(50), 'corr_resp': 'c', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+14.5329 	DATA 	Keypress: right
+14.5459 	EXP 	fixation: autoDraw = False
+14.5459 	EXP 	line1: autoDraw = False
+14.5459 	EXP 	line2: autoDraw = False
+14.5459 	EXP 	line3: autoDraw = False
+14.5459 	EXP 	line4: autoDraw = False
+14.5459 	EXP 	probe: autoDraw = False
+14.5459 	EXP 	fixation: autoDraw = True
+14.6969 	EXP 	Device response: <KeyPress from None: t=14.52252919995226, value=right, duration=0.16588340001180768>
+15.5451 	EXP 	fixation: autoDraw = False
+15.5451 	EXP 	line1: autoDraw = True
+15.5451 	EXP 	line2: autoDraw = True
+15.5451 	EXP 	line3: autoDraw = True
+15.5451 	EXP 	line4: autoDraw = True
+16.0155 	DATA 	Keypress: right
+16.0289 	EXP 	Device response: <KeyPress from None: t=16.013880699989386, value=right, duration=None>
+16.1954 	EXP 	Device response: <KeyPress from None: t=16.013880699989386, value=right, duration=0.1670305000152439>
+16.5444 	INFO 	Keyboard events cleared
+16.5442 	EXP 	probe: autoDraw = True
+19.4591 	EXP 	Device response: <KeyPress from None: t=19.449908099952154, value=x, duration=None>
+19.4610 	DATA 	Keypress: x
+19.6753 	EXP 	Device response: <KeyPress from None: t=19.449908099952154, value=x, duration=0.21931059996131808>
+19.9917 	EXP 	Device response: <KeyPress from None: t=19.985111499903724, value=c, duration=None>
+19.9944 	DATA 	Keypress: c
+20.3080 	EXP 	Device response: <KeyPress from None: t=19.985111499903724, value=c, duration=0.3121585000772029>
+21.1573 	EXP 	Device response: <KeyPress from None: t=21.155399499926716, value=right, duration=None>
+21.1578 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'pos': np.int64(-150), 'corr_resp': 'z', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+21.1597 	DATA 	Keypress: right
+21.1733 	EXP 	fixation: autoDraw = False
+21.1733 	EXP 	line1: autoDraw = False
+21.1733 	EXP 	line2: autoDraw = False
+21.1733 	EXP 	line3: autoDraw = False
+21.1733 	EXP 	line4: autoDraw = False
+21.1733 	EXP 	probe: autoDraw = False
+21.1733 	EXP 	fixation: autoDraw = True
+21.3068 	EXP 	Device response: <KeyPress from None: t=21.155399499926716, value=right, duration=0.1429537000367418>
+22.1728 	EXP 	line1: autoDraw = True
+22.1728 	EXP 	line2: autoDraw = True
+22.1728 	EXP 	line3: autoDraw = True
+22.1728 	EXP 	line4: autoDraw = True
+22.1891 	EXP 	fixation: autoDraw = False
+23.1717 	INFO 	Keyboard events cleared
+23.1715 	EXP 	probe: autoDraw = True
+24.2042 	EXP 	Device response: <KeyPress from None: t=24.199087299988605, value=left, duration=None>
+24.2131 	EXP 	Imported C:/Users/soman/OneDrive/Desktop/Psychopy310/tut 4/sequence _con.csv as conditions, 4 conditions, 2 params
+24.2294 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'pos': np.int64(50), 'corr_resp': 'c', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+24.2316 	DATA 	Keypress: left
+24.2345 	EXP 	fixation: autoDraw = False
+24.2345 	EXP 	line1: autoDraw = False
+24.2345 	EXP 	line2: autoDraw = False
+24.2345 	EXP 	line3: autoDraw = False
+24.2345 	EXP 	line4: autoDraw = False
+24.2345 	EXP 	probe: autoDraw = False
+24.2345 	EXP 	fixation: autoDraw = True
+24.4375 	EXP 	Device response: <KeyPress from None: t=24.199087299988605, value=left, duration=0.23074459994677454>
+24.9384 	DATA 	Mouse: Left button down, pos=(1080,699)
+25.1718 	DATA 	Mouse:  Left button up, pos=(1080,699)
+25.2196 	EXP 	line1: autoDraw = True
+25.2196 	EXP 	line2: autoDraw = True
+25.2196 	EXP 	line3: autoDraw = True
+25.2196 	EXP 	line4: autoDraw = True
+25.2362 	EXP 	fixation: autoDraw = False
+26.2184 	INFO 	Keyboard events cleared
+26.2183 	EXP 	probe: autoDraw = True
+28.2337 	EXP 	Device response: <KeyPress from None: t=28.227705399971455, value=up, duration=None>
+28.2360 	DATA 	Keypress: up
+28.4668 	EXP 	Device response: <KeyPress from None: t=28.227705399971455, value=up, duration=0.23135170002933592>
+28.8833 	EXP 	Device response: <KeyPress from None: t=28.875306300004013, value=down, duration=None>
+28.8853 	DATA 	Keypress: down
+29.0830 	EXP 	Device response: <KeyPress from None: t=28.875306300004013, value=down, duration=0.19360189989674836>
+33.9788 	EXP 	Device response: <KeyPress from None: t=33.96625529997982, value=m, duration=None>
+33.9808 	DATA 	Keypress: m
+34.1285 	EXP 	Device response: <KeyPress from None: t=33.96625529997982, value=m, duration=0.14715779991820455>
+34.4117 	EXP 	Device response: <KeyPress from None: t=34.40493520000018, value=n, duration=None>
+34.4123 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'pos': np.int64(-150), 'corr_resp': 'z', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+34.4139 	DATA 	Keypress: n
+34.4276 	EXP 	fixation: autoDraw = False
+34.4276 	EXP 	line1: autoDraw = False
+34.4276 	EXP 	line2: autoDraw = False
+34.4276 	EXP 	line3: autoDraw = False
+34.4276 	EXP 	line4: autoDraw = False
+34.4276 	EXP 	probe: autoDraw = False
+34.4276 	EXP 	fixation: autoDraw = True
+34.5616 	EXP 	Device response: <KeyPress from None: t=34.40493520000018, value=n, duration=0.14359049999620765>
+35.4266 	EXP 	fixation: autoDraw = False
+35.4266 	EXP 	line1: autoDraw = True
+35.4266 	EXP 	line2: autoDraw = True
+35.4266 	EXP 	line3: autoDraw = True
+35.4266 	EXP 	line4: autoDraw = True
+35.9433 	EXP 	Device response: <KeyPress from None: t=35.9379242999712, value=comma, duration=None>
+35.9448 	DATA 	Keypress: comma
+36.1934 	EXP 	Device response: <KeyPress from None: t=35.9379242999712, value=comma, duration=0.24057699996046722>
+36.4259 	INFO 	Keyboard events cleared
+36.4256 	EXP 	probe: autoDraw = True
+36.9294 	DATA 	Keypress: comma
+36.9426 	EXP 	Device response: <KeyPress from None: t=36.92668039991986, value=comma, duration=None>
+37.2924 	EXP 	Device response: <KeyPress from None: t=36.92668039991986, value=comma, duration=0.3494720000308007>
+37.5417 	EXP 	Device response: <KeyPress from None: t=37.5329091999447, value=comma, duration=None>
+37.5437 	DATA 	Keypress: comma
+37.8250 	EXP 	Device response: <KeyPress from None: t=37.5329091999447, value=comma, duration=0.28520140005275607>
+38.0919 	EXP 	Device response: <KeyPress from None: t=38.08689259993844, value=comma, duration=None>
+38.0936 	DATA 	Keypress: comma
+38.4079 	EXP 	Device response: <KeyPress from None: t=38.08689259993844, value=comma, duration=0.3068405999802053>
+38.4080 	EXP 	Device response: <KeyPress from None: t=38.396416099974886, value=period, duration=None>
+38.4097 	DATA 	Keypress: period
+38.5405 	EXP 	Device response: <KeyPress from None: t=38.396416099974886, value=period, duration=0.13256339996587485>
+38.7742 	EXP 	Device response: <KeyPress from None: t=38.76894739991985, value=period, duration=None>
+38.7764 	DATA 	Keypress: period
+38.9237 	EXP 	Device response: <KeyPress from None: t=38.76894739991985, value=period, duration=0.14759639999829233>
+39.8732 	EXP 	Device response: <KeyPress from None: t=39.85956959996838, value=escape, duration=None>
+39.8753 	DATA 	Keypress: escape
+40.0902 	EXP 	Device response: <KeyPress from None: t=39.85956959996838, value=escape, duration=0.21391129994299263>
+40.0903 	EXP 	tut4: status = STOPPED
+40.1056 	EXP 	line1: autoDraw = False
+40.1056 	EXP 	line2: autoDraw = False
+40.1056 	EXP 	line3: autoDraw = False
+40.1056 	EXP 	line4: autoDraw = False
+40.1056 	EXP 	probe: autoDraw = False
+40.1059 	EXP 	tut4: status = STOPPED
+40.1153 	INFO 	saved data to 'C:\\Users\\soman\\OneDrive\\Desktop\\Psychopy310\\tut 4\\data\\02_tut4_2026-11-19_02h14.34.655.csv'
+40.1185 	INFO 	saved data to C:\Users\soman\OneDrive\Desktop\Psychopy310\tut 4\data\02_tut4_2026-11-19_02h14.34.655.psydat
+40.5515 	INFO 	Stopping keyboard key buffers.
